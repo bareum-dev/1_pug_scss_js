@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-color: pink;
+}
+
+.main {
+  border: 1px solid red;
+}
+
+.footer {
+  font-size: 32px;
+  color: red;
+}/*# sourceMappingURL=style.css.map */
